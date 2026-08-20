@@ -34,9 +34,8 @@ export default {
         numero: '1',
         titulo:
           'Campañas digitales para la divulgación del patrimonio cultural',
-        desarrolloContenido: true,
+        desarrolloContenidos: true,
         subMenu: [
-          // <--- Cambiar 'subTitulo' por 'subMenu'
           {
             numero: '1.1',
             titulo: 'Concepto de campaña digital en museos',
@@ -63,7 +62,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo: 'Protocolos de comunicación digital',
-        desarrolloContenido: true,
+        desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
@@ -91,7 +90,7 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Ética y normativa en campañas digitales para museos',
-        desarrolloContenido: true,
+        desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
@@ -119,7 +118,7 @@ export default {
         nombreRuta: 'tema4',
         numero: '4',
         titulo: 'Técnicas de edición de contenido digital',
-        desarrolloContenido: true,
+        desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
@@ -148,7 +147,7 @@ export default {
         numero: '5',
         titulo:
           'Plataformas digitales: configuración, calendario y restricciones',
-        desarrolloContenido: true,
+        desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
@@ -176,7 +175,7 @@ export default {
         nombreRuta: 'tema6',
         numero: '6',
         titulo: 'Difusión y seguimiento de la campaña digital',
-        desarrolloContenido: true,
+        desarrolloContenidos: true,
       },
     ],
     subMenu: [
@@ -205,7 +204,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/62360022_CF03_CFA.pdf',
       },
       {
         icono: 'fas fa-download',

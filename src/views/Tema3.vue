@@ -130,43 +130,62 @@
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t3/img09.svg", alt="Imagen decorativa").img100.m-auto
-                  h4 Video con subtítulos
-                  p Un video sobre una colección puede incluir subtítulos para facilitar la comprensión de las personas con discapacidad auditiva o de quienes visualizan el contenido sin activar el audio.
+                  h4.text-start Video con subtítulos
+                  p.text-start Un video sobre una colección puede incluir subtítulos para facilitar la comprensión de las personas con discapacidad auditiva o de quienes visualizan el contenido sin activar el audio.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t3/img10.svg", alt="Imagen decorativa").img100.m-auto
-                  h4 Imagen con descripción alternativa
-                  p Una imagen de una pieza patrimonial puede incorporar un texto alternativo que describa sus principales características y contexto, permitiendo que las personas que utilizan lectores de pantalla accedan a la información.
+                  h4.text-start Imagen con descripción alternativa
+                  p.text-start Una imagen de una pieza patrimonial puede incorporar un texto alternativo que describa sus principales características y contexto, permitiendo que las personas que utilizan lectores de pantalla accedan a la información.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t3/img11.svg", alt="Imagen decorativa").img100.m-auto
-                  h4 Infografía con diseño accesible
-                  p Una infografía puede emplear textos legibles, tamaños de letra adecuados, buen contraste entre el fondo y el contenido, y una organización visual que facilite la lectura y comprensión de la información.
+                  h4.text-start Infografía con diseño accesible
+                  p.text-start Una infografía puede emplear textos legibles, tamaños de letra adecuados, buen contraste entre el fondo y el contenido, y una organización visual que facilite la lectura y comprensión de la información.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t3/img12.svg", alt="Imagen decorativa").img100.m-auto
-                  h4 Cápsula sonora con transcripción
-                  p Una cápsula sonora puede acompañarse de una transcripción para que las personas con discapacidad auditiva o quienes prefieran leer el contenido tengan acceso a la misma información.
+                  h4.text-start Cápsula sonora con transcripción
+                  p.text-start Una cápsula sonora puede acompañarse de una transcripción para que las personas con discapacidad auditiva o quienes prefieran leer el contenido tengan acceso a la misma información.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t3/img13.svg", alt="Imagen decorativa").img100.m-auto
-                  h4 Publicación en redes sociales con lenguaje claro
-                  p Una publicación puede organizar la información mediante frases breves, párrafos cortos y un diseño ordenado, evitando la sobrecarga de texto o elementos gráficos que dificulten la comprensión del mensaje.
+                  h4.text-start Publicación en redes sociales con lenguaje claro
+                  p.text-start Una publicación puede organizar la información mediante frases breves, párrafos cortos y un diseño ordenado, evitando la sobrecarga de texto o elementos gráficos que dificulten la comprensión del mensaje.
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p.mb-4(data-aos="fade-down") La accesibilidad también se relaciona con el lenguaje. Un contenido puede estar disponible en una plataforma digital, pero seguir siendo difícil de comprender si utiliza frases demasiado extensas, tecnicismos sin explicación, baja legibilidad o diseños visualmente recargados. Por eso, en la edición de una campaña se debe revisar tanto la forma visual como la claridad del mensaje. En lo referido a los museos, esto es especialmente importante porque muchos contenidos patrimoniales provienen de campos especializados como la historia, el arte, la conservación, la arqueología o la memoria cultural, y requieren ser presentados de manera comprensible para públicos no expertos.
         figure.mb-4
           img(src='@/assets/curso/temas/t3/img14.png', alt='Imagen decorativa')
+        .row.justify-content-center.mb-4
+          .col.col-12
+            .cajon.cajon.C01.color-primario.p-4.mb-0
+              p.mb-0(data-aos="fade-down") De esta manera, la accesibilidad digital debe asumirse como una responsabilidad comunicativa y pedagógica. No se trata solo de cumplir una recomendación técnica, sino de favorecer que más personas puedan acercarse al patrimonio cultural, interpretar sus significados y participar en las conversaciones que los museos promueven en entornos digitales.
         p.mb-0(data-aos="fade-down") Con el propósito de ampliar la comprensión de los principios éticos y normativos aplicados a las campañas digitales, se invita a acceder el siguiente pódcast sobre las buenas prácticas para la divulgación digital responsable del patrimonio cultural, en el que se abordan recomendaciones para comunicar de manera ética, legal, inclusiva y respetuosa en los entornos digitales:
-    .row.justify-content-center.align-items-center.mb-0
-      .col-lg-12
-        figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center.mb-0
+        .col.col-lg-10.col-12
+          .titulo-sexto.color-acento-contenido
+            h5 Pódcast.
+            span Buenas practicas para la divulgacion digital responsable del patrimonio cultural
+          .row.justify-content-center.align-items-center.g-0
+            .col-lg-12.col-12.order-lg-2.order-2
+              .cajon.cajon.C01.p-4
+                .col-lg-12.col-12
+                  .tarjeta.clr--pink.p-4.rounded-0.h-100
+                    .tarjeta.bg-white.p-4
+                      TarjetaAudio.color-acento-botones.mb-3(
+                      texto="Pódcast"
+                      :audio="require_src('@/assets/curso/Podcast_CF03_62360022.mp3')"
+                      @audio-hover="mostrarIndicadorTarjetaAudio = false"
+                  )
+                      .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
+            .col-lg-12.col-12.order-lg-1.order-1
+              figure
+                img(src='@/assets/curso/temas/t3/img15.svg', alt='Imagen decorativa')
 </template>
 <script>
 export default {

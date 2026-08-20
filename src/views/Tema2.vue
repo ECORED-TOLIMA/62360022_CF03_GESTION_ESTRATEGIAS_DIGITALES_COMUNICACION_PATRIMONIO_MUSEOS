@@ -110,7 +110,7 @@
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-7.col-12.order-lg-1.order-2
         .cajon.C04.p-4.h-100.w-100
-          p.mb-5(data-aos="fade-down") Un lenguaje claro no significa superficial, significa que la información se presenta de manera comprensible, ordenada y contextualizada. Por ejemplo, en lugar de usar términos especializados sin explicación, la campaña puede introducirlos con ejemplos o descripciones sencillas. Si se habla de conservación, curaduría, mediación o patrimonio inmaterial, conviene explicar el concepto dentro del contexto de la publicación.
+          p(data-aos="fade-down") Un lenguaje claro no significa superficial, significa que la información se presenta de manera comprensible, ordenada y contextualizada. Por ejemplo, en lugar de usar términos especializados sin explicación, la campaña puede introducirlos con ejemplos o descripciones sencillas. Si se habla de conservación, curaduría, mediación o patrimonio inmaterial, conviene explicar el concepto dentro del contexto de la publicación.
           p.mb-0(data-aos="fade-down") El tono comunicativo debe corresponder con la identidad del museo y la intención de la campaña. Puede ser cercano, educativo, reflexivo o invitacional, pero siempre debe mantener respeto por el patrimonio y por las personas. La comunicación cultural no debe usar expresiones que ridiculicen, estereotipen o reduzcan las prácticas culturales de una comunidad.
       .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure

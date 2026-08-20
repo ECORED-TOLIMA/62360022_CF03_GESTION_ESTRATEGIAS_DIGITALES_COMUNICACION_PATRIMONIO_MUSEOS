@@ -110,7 +110,7 @@
           .tarjeta.color-secundario.p-3(x="17%" y="42%" numero="+")
             p.mb-0 Identifica el canal digital donde se publicará la pieza, de acuerdo con el público objetivo y las características del contenido.
           .tarjeta.color-secundario.p-3(x="26%" y="42%" numero="+")
-            p.mb-0 Define si la publicación se presentará como imagen, carrusel, video, audio, infografía, historia, blog, boletín u otro recurso digital.
+            p.mb-0 Define si la publicación se presentará como imagen, carrusel, video, audio, infografía, historia, <em>blog</em>, boletín u otro recurso digital.
           .tarjeta.color-secundario.p-3(x="35.5%" y="42%" numero="+")
             p.mb-0 Relaciona cada publicación con la pieza, colección, exposición, manifestación cultural o actividad que se desea divulgar.
           .tarjeta.color-secundario.p-3(x="44.5%" y="42%" numero="+")

@@ -26,6 +26,9 @@
       .col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/t4/img02.png', alt='Imagen decorativa')
+    .row.justify-content-center
+      .col.col-lg-10.col-12
+        p.mb-4(data-aos="fade-down") En la edición de texto también se hace necesario revisar el uso de etiquetas o palabras clave. Estas ayudan a organizar contenidos y facilitar búsquedas, pero deben usarse con criterio. En una campaña de museo, las etiquetas pueden relacionarse con:
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-2.col-12
         .tarjeta.tarjeta--C08.px-2.py-2.h-100
