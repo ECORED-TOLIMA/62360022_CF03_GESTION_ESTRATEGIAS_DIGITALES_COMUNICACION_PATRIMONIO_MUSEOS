@@ -32,7 +32,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Estructura de un protocolo de comunicación digital
     p.mb-4(data-aos="fade-down") Un protocolo de comunicación digital puede organizarse en varios componentes:
-    .row.justify-content-center.align-items-center.px-3.mb-4(data-aos="flip-up")
+    .row.bg09.justify-content-center.align-items-center.px-3.mb-4(data-aos="flip-up")
       LineaTiempoE.color-acento-contenido
         .row(titulo="1")
           .col-lg-9.mb-4.mb-lg-0.order-lg-2.order-2
