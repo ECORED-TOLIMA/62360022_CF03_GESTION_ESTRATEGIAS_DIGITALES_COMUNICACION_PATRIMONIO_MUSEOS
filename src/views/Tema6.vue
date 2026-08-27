@@ -20,25 +20,25 @@
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100
           .bottomCircle.mb-4
-            img(src="@/assets/curso/temas/t6/img02.svg", alt="Icono expectativa").img70
+            img(src="@/assets/curso/temas/t6/img02.svg", alt="").img70
           h4 Visualizaciones y alcance
           p.mb-0 Indican el número de personas que tuvieron contacto con los contenidos de la campaña.
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100
           .bottomCircle.mb-4
-            img(src="@/assets/curso/temas/t6/img03.svg", alt="Icono audiovisual").img70
+            img(src="@/assets/curso/temas/t6/img03.svg", alt="").img70
           h4 Interacciones
           p.mb-0 Muestran acciones como reacciones, comentarios, compartidos, respuestas o participación en actividades relacionadas con la campaña.
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100
           .bottomCircle.mb-4
-            img(src="@/assets/curso/temas/t6/img04.svg", alt="Icono infografía").img70
+            img(src="@/assets/curso/temas/t6/img04.svg", alt="").img70
           h4 Consultas y participación del público
           p.mb-0 Evidencian los temas que despiertan mayor interés y las necesidades de información que surgen durante la difusión.
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100
           .bottomCircle.mb-4
-            img(src="@/assets/curso/temas/t6/img05.svg", alt="Icono interacción").img70
+            img(src="@/assets/curso/temas/t6/img05.svg", alt="").img70
           h4 Claridad y pertinencia de los contenidos
           p.mb-0 Permiten analizar si los mensajes fueron comprendidos por las audiencias y si responden adecuadamente a los objetivos de divulgación previstos.
     .row.justify-content-center.align-items-center.mb-4

@@ -69,18 +69,26 @@
         p.mb-0(data-aos="fade-down") No es necesario que una campaña esté presente en todos los medios digitales disponibles. Una selección adecuada consiste en identificar los canales que mejor apoyan los objetivos de comunicación, las características de los públicos y las necesidades de divulgación del patrimonio cultural.
     .row.justify-content-center.mb-0
       .col.col-12
-        .tarjeta.tarjeta--C07.p-4
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/t5/img08.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Para profundizar en la relación entre los objetivos de una campaña y la selección de medios digitales, se recomienda consultar el video denominado: La campaña publicitaria en medios digitales.
-                .col-sm-auto
-                  a.boton.tarjeta--c6(href="https://www.youtube.com/embed/oh9nIxWcgfg?si=onPjEsRNHiLPG4Ka" target="_blank")
-                    span Abrir video
-                    i.fas.fa-file-video
+        p.mb-0.text-center Para profundizar en la relación entre los objetivos de una campaña y la selección de medios digitales, se recomienda consultar el video denominado: La campaña publicitaria en medios digitales.
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/oh9nIxWcgfg?si=txhJ2XEZE1cNkvjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- .row.justify-content-center.mb-0
+    //-   .col.col-12
+    //-     .tarjeta.tarjeta--C07.p-4
+    //-       .row.justify-content-around.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/temas/t5/img08.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               p.mb-0 Para profundizar en la relación entre los objetivos de una campaña y la selección de medios digitales, se recomienda consultar el video denominado: La campaña publicitaria en medios digitales.
+    //-             .col-sm-auto
+    //-               a.boton.tarjeta--c6(href="https://www.youtube.com/watch?v=oh9nIxWcgfg" target="_blank")
+    //-                 span Abrir video
+    //-                 i.fas.fa-file-video
     separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.2 Configuración de espacios digitales
@@ -142,21 +150,29 @@
         p.mb-0(data-aos="fade-down") Finalmente, el calendario puede incluir un campo de seguimiento básico para registrar resultados como visualizaciones, reacciones, comentarios, clics o aspectos cualitativos observados. Con esta información se valora si los contenidos fueron claros, la plataforma adecuada y la campaña logró generar interés o participación en torno al contenido divulgado.
     .row.justify-content-center.mb-4
       .col.col-12
-        .tarjeta.tarjeta--C07.p-4
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/t5/img13.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Para reforzar la organización previa de publicaciones, se recomienda revisar el video denominado: Calendario de publicacion en redes sociales.
-                .col-sm-auto
-                  a.boton.tarjeta--c6(href="https://www.youtube.com/embed/JnTTpsrnOWE?si=sVfKjg1AARHsMgKO" target="_blank")
-                    span Abrir video
-                    i.fas.fa-file-video
+        p.mb-0.text-center Para reforzar la organización previa de publicaciones, se recomienda revisar el video denominado: Calendario de publicación en redes sociales.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/JnTTpsrnOWE?si=5L1ocy9uU0p9HD0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- .row.justify-content-center.mb-4
+    //-   .col.col-12
+    //-     .tarjeta.tarjeta--C07.p-4
+    //-       .row.justify-content-around.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/temas/t5/img13.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               p.mb-0 Para reforzar la organización previa de publicaciones, se recomienda revisar el video denominado: Calendario de publicación en redes sociales.
+    //-             .col-sm-auto
+    //-               a.boton.tarjeta--c6(href="https://www.youtube.com/watch?v=JnTTpsrnOWE" target="_blank")
+    //-                 span Abrir video
+    //-                 i.fas.fa-file-video
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
-        p.mb-0(data-aos="fade-down") Como ejemplo de aplicación, la siguiente tabla muestra cómo pueden registrarse los principales campos de un calendario de publicaciones para una campaña de divulgación del patrimonio cultural. Los ejemplos presentados son ilustrativos y permiten comprender la forma en que se organiza la información antes de la publicación de los contenidos:
+        p.mb-0(data-aos="fade-down") Como ejemplo de aplicación, la siguiente tabla presenta cómo pueden registrarse los principales campos de un calendario de publicaciones para una campaña de divulgación del patrimonio cultural. Los ejemplos presentados son ilustrativos y permiten comprender la forma en que se organiza la información antes de la publicación de los contenidos:
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col.col-12.col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -174,13 +190,13 @@
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") 15 de septiembre, 10:00 a. m.
               tr
                 td(data-aos="fade-down") Plataforma.
-                td(data-aos="fade-down") Instagram
+                td(data-aos="fade-down") Instagram.
               tr
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Formato.
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") Carrusel de imágenes
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Carrusel de imágenes.
               tr
                 td(data-aos="fade-down") Tema patrimonial.
-                td(data-aos="fade-down") Colección de cerámica prehispánica
+                td(data-aos="fade-down") Colección de cerámica prehispánica.
               tr
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Objetivo de la pieza.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Sensibilizar sobre el valor histórico de la colección.

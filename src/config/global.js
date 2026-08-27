@@ -295,38 +295,36 @@ export default {
   referencias: [
     {
       referencia:
-        'Congreso de Colombia. (2012). <em>Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales</em>.',
+        'Congreso de Colombia. (2012). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales.',
       link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
-      referencia:
-        'Creative Commons. (s. f.). <em>Creative Commons Licenses</em>.',
+      referencia: 'Creative Commons. (s. f.). Creative Commons Licenses.',
       link: 'https://creativecommons.org/share-your-work/use-remix/cc-licenses/',
     },
     {
-      referencia:
-        'Dirección Nacional de Derecho de Autor. (s. f.). <em>DNDA</em>.',
+      referencia: 'Dirección Nacional de Derecho de Autor. (s. f.). DNDA.',
       link: 'https://www.derechodeautor.gov.co/es',
     },
     {
       referencia:
-        'Kotler, N., Kotler, P. & Kotler, W. I. (2008). <em>Museum marketing and strategy: Designing missions, building audiences, generating revenue and resources</em> (2.ª ed.). Jossey-Bass.',
+        'Kotler, N., Kotler, P. & Kotler, W. I. (2008). Museum marketing and strategy: Designing missions, building audiences, generating revenue and resources (2.ª ed.). Jossey-Bass.',
     },
     {
       referencia:
-        'Macnamara, J. (2018). <em>Evaluating public communication: Exploring new models, standards, and best practice</em>. Routledge.',
+        'Macnamara, J. (2018). Evaluating public communication: Exploring new models, standards, and best practice. Routledge.',
     },
     {
       referencia:
-        'Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (s. f.). <em>Cultura: protegiendo nuestro patrimonio y fomentando la creatividad</em>.',
+        'Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (s. f.). Cultura: protegiendo nuestro patrimonio y fomentando la creatividad.',
       link: 'https://www.unesco.org/es/culture',
     },
     {
-      referencia: 'Shea, V. (1994). <em>Netiquette</em>. Albion Books.',
+      referencia: 'Shea, V. (1994). Netiquette. Albion Books.',
     },
     {
       referencia:
-        'World Wide Web Consortium. (2024). <em>Web Content Accessibility Guidelines (WCAG) 2.2</em>.',
+        'World Wide Web Consortium. (2024). Web Content Accessibility Guidelines (WCAG) 2.2.',
       link: 'https://www.w3.org/TR/WCAG22/',
     },
   ],
@@ -337,7 +335,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

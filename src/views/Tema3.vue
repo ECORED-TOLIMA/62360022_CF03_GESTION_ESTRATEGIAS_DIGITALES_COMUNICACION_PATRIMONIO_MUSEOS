@@ -36,7 +36,7 @@
       .col.col-lg-10.col-12
         .cajon.cajon.C01.color-primario.p-4.mb-4
           p.mb-0(data-aos="fade-down") La Dirección Nacional de Derecho de Autor de Colombia ofrece servicios asociados al registro de obras, capacitaciones, asesorías jurídicas y orientación sobre derecho de autor (Dirección Nacional de Derecho de Autor, s.f.). Para los museos y las audiencias esto recuerda que no todo contenido disponible en internet puede usarse libremente. Es necesario verificar quién es el autor, cuál es la fuente y en qué condiciones puede utilizarse. 
-        p.mb-0(data-aos="fade-down") Las licencias permiten conocer los usos autorizados de una obra. Creative Commons explica lo siguiente de cada una de sus licencias:
+        p.mb-0(data-aos="fade-down") Las licencias permiten conocer los usos autorizados de una obra. Creative Commons explica cada una de sus licencias:
     .row.mb-0
       .col-lg-6
         .tarjeta-avatar-b.mb-5
@@ -109,7 +109,7 @@
         .cajon.C01.p-4.h-100.w-100.mb-4
           .row.justify-content-center.align-items-center
             .col-lg-8.col-12.order-lg-1.order-2
-              p.mb-4(data-aos="fade-down") En este campo, una referencia internacional importante es el World Wide <em>web</em> Consortium, conocido por la sigla W3C. Esta organización desarrolla estándares y orientaciones para la <em>web</em>, entre ellos las <em>web</em> Content Accessibility Guidelines, conocidas como WCAG o Pautas de Accesibilidad para el Contenido <em>web</em>. Estas pautas explican cómo hacer que los contenidos digitales sean más accesibles para personas con distintas discapacidades y necesidades de acceso. De acuerdo con el W3C, las WCAG 2.2 buscan que el contenido <em>web</em> sea más accesible para personas con baja visión, pérdida auditiva, movilidad reducida, dificultades cognitivas, fotosensibilidad y otras condiciones, y también pueden mejorar la usabilidad para los usuarios en general (World Wide <em>web</em> Consortium, 2024).
+              p.mb-4(data-aos="fade-down") En este campo, una referencia internacional importante es el World Wide Web Consortium, conocido por la sigla W3C. Esta organización desarrolla estándares y orientaciones para la <em>web</em>, entre ellos las Web Content Accessibility Guidelines, conocidas como WCAG o Pautas de Accesibilidad para el Contenido <em>web</em>. Estas pautas explican cómo hacer que los contenidos digitales sean más accesibles para personas con distintas discapacidades y necesidades de acceso. De acuerdo con el W3C, las WCAG 2.2 buscan que el contenido <em>web</em> sea más accesible para personas con baja visión, pérdida auditiva, movilidad reducida, dificultades cognitivas, fotosensibilidad y otras condiciones, y también pueden mejorar la usabilidad para los usuarios en general (World Wide Web Consortium, 2024).
             .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/t3/img07.svg', alt='Imagen decorativa')
@@ -123,37 +123,37 @@
           .row.align-items-center.bg05(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block.py-0.px-2
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/temas/t3/img08.png", alt="Imagen decorativa")
+                img(src="@/assets/curso/temas/t3/img08.png", alt="")
             .col-lg-8.px-0.py-4
               SlyderF.custom.color-acento-botones.px-lg-5.py-0.px-0(columnas="col-lg-12 col-xl-12")
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img09.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img09.svg", alt="").img100.m-auto
                   h4.text-start Video con subtítulos
                   p.text-start Un video sobre una colección puede incluir subtítulos para facilitar la comprensión de las personas con discapacidad auditiva o de quienes visualizan el contenido sin activar el audio.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img10.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img10.svg", alt="").img100.m-auto
                   h4.text-start Imagen con descripción alternativa
                   p.text-start Una imagen de una pieza patrimonial puede incorporar un texto alternativo que describa sus principales características y contexto, permitiendo que las personas que utilizan lectores de pantalla accedan a la información.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img11.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img11.svg", alt="").img100.m-auto
                   h4.text-start Infografía con diseño accesible
                   p.text-start Una infografía puede emplear textos legibles, tamaños de letra adecuados, buen contraste entre el fondo y el contenido, y una organización visual que facilite la lectura y comprensión de la información.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img12.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img12.svg", alt="").img100.m-auto
                   h4.text-start Cápsula sonora con transcripción
                   p.text-start Una cápsula sonora puede acompañarse de una transcripción para que las personas con discapacidad auditiva o quienes prefieran leer el contenido tengan acceso a la misma información.
                 .tarjeta.tarjeta--slyder.p-4.py-2
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
-                      img(src="@/assets/curso/temas/t3/img13.svg", alt="Imagen decorativa").img100.m-auto
+                      img(src="@/assets/curso/temas/t3/img13.svg", alt="").img100.m-auto
                   h4.text-start Publicación en redes sociales con lenguaje claro
                   p.text-start Una publicación puede organizar la información mediante frases breves, párrafos cortos y un diseño ordenado, evitando la sobrecarga de texto o elementos gráficos que dificulten la comprensión del mensaje.
     .row.justify-content-center.mb-4
@@ -165,12 +165,12 @@
           .col.col-12
             .cajon.cajon.C01.color-primario.p-4.mb-0
               p.mb-0(data-aos="fade-down") De esta manera, la accesibilidad digital debe asumirse como una responsabilidad comunicativa y pedagógica. No se trata solo de cumplir una recomendación técnica, sino de favorecer que más personas puedan acercarse al patrimonio cultural, interpretar sus significados y participar en las conversaciones que los museos promueven en entornos digitales.
-        p.mb-0(data-aos="fade-down") Con el propósito de ampliar la comprensión de los principios éticos y normativos aplicados a las campañas digitales, se invita a acceder el siguiente pódcast sobre las buenas prácticas para la divulgación digital responsable del patrimonio cultural, en el que se abordan recomendaciones para comunicar de manera ética, legal, inclusiva y respetuosa en los entornos digitales:
+        p.mb-0(data-aos="fade-down") Con el propósito de ampliar la comprensión de los principios éticos y normativos aplicados a las campañas digitales, se invita a acceder al siguiente pódcast sobre las buenas prácticas para la divulgación digital responsable del patrimonio cultural, en el que se abordan recomendaciones para comunicar de manera ética, legal, inclusiva y respetuosa en los entornos digitales:
     .row.justify-content-center.mb-0
         .col.col-lg-10.col-12
           .titulo-sexto.color-acento-contenido
             h5 Pódcast.
-            span Buenas practicas para la divulgacion digital responsable del patrimonio cultural
+            span Buenas prácticas para la divulgación digital responsable del patrimonio cultural
           .row.justify-content-center.align-items-center.g-0
             .col-lg-12.col-12.order-lg-2.order-2
               .cajon.cajon.C01.p-4

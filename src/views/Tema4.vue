@@ -48,20 +48,28 @@
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p.mb-0.text-center No deben incluir términos engañosos que busquen visibilidad sin relación con el contenido.
-    .row.justify-content-center.mb-0
+    .row.justify-content-center.mb-4
       .col.col-12
-        .tarjeta.tarjeta--C07.p-4
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/t4/img03.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Para profundizar en la creación de piezas orientadas a redes sociales, se sugiere consultar el video denominado: Creación de contenido digital para redes sociales:
-                .col-sm-auto
-                  a.boton.tarjeta--c6(href="https://www.youtube.com/embed/7BD81_mOQcw?si=p8CRU7IbEaBrPT91" target="_blank")
-                    span Abrir video
-                    i.fas.fa-file-video
+        p.mb-0.text-center Para profundizar en la creación de piezas orientadas a redes sociales, se sugiere consultar el video denominado: Creación de contenido digital para redes sociales:
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/7BD81_mOQcw?si=0U2bOE46ImUyb_2_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- .row.justify-content-center.mb-0
+    //-   .col.col-12
+    //-     .tarjeta.tarjeta--C07.p-4
+    //-       .row.justify-content-around.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/temas/t4/img03.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               p.mb-0 
+    //-             .col-sm-auto
+    //-               a.boton.tarjeta--c6(href="https://www.youtube.com/watch?v=7BD81_mOQcw" target="_blank")
+    //-                 span Abrir video
+    //-                 i.fas.fa-file-video
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Edición de imágenes e infografías
@@ -82,22 +90,24 @@
         .crd01.crd--grayGrad
           .bottomCircle01.mb-5
             figure
-              img(src="@/assets/curso/temas/t4/img05.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/temas/t4/img05.svg", alt="").img80.m-auto
           h4.text-center ¿Qué presenta la infografía?
+          br
           p.text-center Describe de manera general el tema o la información principal que comunica la infografía, permitiendo al lector comprender su propósito antes de observar sus elementos.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-5
             figure
-              img(src="@/assets/curso/temas/t4/img06.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/temas/t4/img06.svg", alt="").img80.m-auto
           h4.text-center ¿Cuáles son sus elementos principales?
           p.text-center Identifica los componentes más importantes de la infografía, como títulos, imágenes, íconos, gráficos, diagramas o bloques de información que organizan el contenido.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-5
             figure
-              img(src="@/assets/curso/temas/t4/img07.svg", alt="alt").img80.m-auto
+              img(src="@/assets/curso/temas/t4/img07.svg", alt="").img80.m-auto
           h4.text-center ¿Qué relación existe entre ellos?
+          br
           p.text-center Explica cómo se conectan los diferentes elementos de la infografía y de qué manera, en conjunto, contribuyen a comprender el mensaje o la información que se desea comunicar.
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
@@ -198,20 +208,28 @@
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p.mb-0(data-aos="fade-down") En síntesis, la selección y uso de herramientas digitales supone tomar decisiones que ayuden a planificar, producir, editar y publicar contenidos de manera organizada, garantizando que cada recurso contribuya al cumplimiento de los objetivos de la campaña.
-    .row.justify-content-center.mb-0
+    .row.justify-content-center.mb-4
       .col.col-12
-        .tarjeta.tarjeta--C07.p-4
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/t4/img19.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Para ampliar conocimientos sobre la organización y programación estratégica de contenidos, se recomienda consultar el video: Planeación de contenidos digitales.
-                .col-sm-auto
-                  a.boton.tarjeta--c6(href="https://www.youtube.com/embed/SFR7uBY4o0A?si=Hdgsu5EPaQPPjegS" target="_blank")
-                    span Abrir video
-                    i.fas.fa-file-video
+        p.mb-0.text-center Para ampliar conocimientos sobre la organización y programación estratégica de contenidos, se recomienda consultar el video: Planeación de contenidos digitales.
+    .row.justify-content-center.align-items-center.mb-0
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/SFR7uBY4o0A?si=swtQJsnXqOKXamA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- .row.justify-content-center.mb-0
+    //-   .col.col-12
+    //-     .tarjeta.tarjeta--C07.p-4
+    //-       .row.justify-content-around.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/temas/t4/img19.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               p.mb-0 
+    //-             .col-sm-auto
+    //-               a.boton.tarjeta--c6(href="https://www.youtube.com/watch?v=SFR7uBY4o0A" target="_blank")
+    //-                 span Abrir video
+    //-                 i.fas.fa-file-video
 </template>
 <script>
 export default {

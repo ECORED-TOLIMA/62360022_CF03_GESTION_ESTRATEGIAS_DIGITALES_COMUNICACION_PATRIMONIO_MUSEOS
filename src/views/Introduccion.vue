@@ -52,7 +52,7 @@
           img(src='@/assets/curso/temas/intro/img05.jpg', alt='Imagen decorativa')
       .col.col-lg-5.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") Este componente formativo desarrolla los fundamentos necesarios para la planificación, producción, edición, publicación y difusión de una campaña digital sobre patrimonio cultural en el ámbito museal. Se abordan los protocolos de comunicación digital, las técnicas de edición de contenido, los tipos de publicaciones, la configuración y uso de plataformas, los calendarios de publicación, las restricciones de los canales y los criterios éticos que orientan la divulgación responsable del patrimonio.
-        p.mb-0(data-aos="fade-down") Por lo anterior y para comprender la importancia del contenido y contextualizarse con la temática a tratar, se recomienda acceder al siguiente video:
+        p.mb-0(data-aos="fade-down") Por lo anterior y para comprender la importancia del contenido y contextualizarse con la temática tratar, se recomienda acceder al siguiente video:
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
         figure

@@ -24,22 +24,22 @@
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100
           .bottomCircle.mb-4
-            img(src="@/assets/curso/temas/t1/img02.svg", alt="Icono expectativa").img70
+            img(src="@/assets/curso/temas/t1/img02.svg", alt="").img70
           p.text-center.mb-0 Una campaña sobre una exposición de fotografía histórica puede iniciar con una publicación de expectativa.
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100
           .bottomCircle.mb-4
-            img(src="@/assets/curso/temas/t1/img03.svg", alt="Icono audiovisual").img70
+            img(src="@/assets/curso/temas/t1/img03.svg", alt="").img70
           p.text-center.mb-0 Continuar con una cápsula audiovisual sobre el contexto de las imágenes.
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100
           .bottomCircle.mb-4
-            img(src="@/assets/curso/temas/t1/img04.svg", alt="Icono infografía").img70
+            img(src="@/assets/curso/temas/t1/img04.svg", alt="").img70
           p.text-center.mb-0 Incluir una infografía sobre el periodo histórico representado.
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100
           .bottomCircle.mb-4
-            img(src="@/assets/curso/temas/t1/img05.svg", alt="Icono interacción").img70
+            img(src="@/assets/curso/temas/t1/img05.svg", alt="").img70
           p.text-center.mb-0 Y cerrar con una invitación a comentar recuerdos o experiencias relacionadas con el territorio.    
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
@@ -63,6 +63,7 @@
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/temas/t1/img07.svg' alt='AvatarTop')
           h4.text-center ¿Qué se busca lograr?
+          br
           p Corresponde al propósito de la campaña. Permite establecer el resultado esperado y orientar todas las acciones de comunicación hacia un objetivo común.
         .tarjeta.tarjeta--bg03.p-4
           .row.justify-content-center.mb-3
@@ -75,12 +76,14 @@
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/temas/t1/img09.svg' alt='AvatarTop')
           h4.text-center ¿Qué plataformas se utilizarán?
+          br
           p Implica elegir los canales digitales más apropiados para difundir los contenidos, considerando las características del público objetivo y las posibilidades de cada plataforma.
         .tarjeta.tarjeta--bg03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/temas/t1/img10.svg' alt='AvatarTop')
           h4.text-center ¿Cómo se evaluará el resultado?
+          br
           p Consiste en definir criterios o indicadores que permitan valorar el cumplimiento de los objetivos de la campaña, el alcance de los contenidos y la participación del público.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-10.col-12
@@ -229,18 +232,26 @@
                 img(src='@/assets/curso/temas/t1/img21.jpg', alt='Imagen decorativa')
     .row.justify-content-center.mb-4
       .col.col-12
-        .tarjeta.tarjeta--C07.p-4
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/t1/img22.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Para ampliar la comprensión sobre el concepto de campaña, se sugiere consultar el siguiente video denominado: ¿Qué es una campaña publicitaria?
-                .col-sm-auto
-                  a.boton.tarjeta--c6(href="https://www.youtube.com/embed/1eJjSzqVAVk?si=ZwufPN39Stv2kt3z" target="_blank")
-                    span Abrir video
-                    i.fas.fa-file-video
+        p.mb-0.text-center Para ampliar la comprensión sobre el concepto de campaña, se sugiere consultar el siguiente video denominado: ¿Qué es una campaña publicitaria?
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/1eJjSzqVAVk?si=uEZVsbgjrs1v6lw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- .row.justify-content-center.mb-4
+    //-   .col.col-12
+    //-     .tarjeta.tarjeta--C07.p-4
+    //-       .row.justify-content-around.align-items-center
+    //-         .col-3.col-sm-2.col-lg-1
+    //-           img(src="@/assets/curso/temas/t1/img22.svg")
+    //-         .col
+    //-           .row.justify-content-between.align-items-center
+    //-             .col.mb-3.mb-sm-0
+    //-               p.mb-0 Para ampliar la comprensión sobre el concepto de campaña, se sugiere consultar el siguiente video denominado: ¿Qué es una campaña publicitaria?
+    //-             .col-sm-auto
+    //-               a.boton.tarjeta--c6(href="https://www.youtube.com/watch?v=1eJjSzqVAVk" target="_blank")
+    //-                 span Abrir video
+    //-                 i.fas.fa-file-video
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p.mb-0(data-aos="fade-down") Igualmente, para comprender la secuencia de actividades que conforman una campaña digital para museos, la siguiente figura presenta de manera gráfica las etapas que integran este proceso, desde la identificación de la necesidad de comunicación hasta la valoración de los resultados obtenidos. Esta organización facilita la planeación, ejecución y mejora continua de las estrategias de divulgación del patrimonio cultural:

@@ -27,7 +27,7 @@
             .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/t2/img02.svg', alt='Imagen decorativa')
-        p.mb-0(data-aos="fade-down") El protocolo también favorece la continuidad, coherencia y consistencia. Si una campaña es gestionada por varias personas, todas deben reconocer las mismas pautas de lenguaje, estilo y revisión. Esto evita cambios bruscos en el tono y mantiene una presencia institucional más sólida.
+        p.mb-0(data-aos="fade-down") El protocolo también favorece la coherencia y continuidad. Si una campaña es gestionada por varias personas, todas deben reconocer las mismas pautas de lenguaje, estilo y revisión. Esto evita cambios bruscos en el tono y mantiene una presencia institucional más sólida.
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Estructura de un protocolo de comunicación digital
