@@ -25,7 +25,7 @@
             p(data-aos="fade-down") “Esta vasija no solo conserva una forma antigua de trabajo artesanal. También permite reconocer prácticas de intercambio y alimentación de una comunidad. Observe sus detalles y comparta qué elementos le llaman la atención”.
       .col-lg-3.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t4/img02.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img02.png', alt='')
     .row.justify-content-center
       .col.col-lg-10.col-12
         p.mb-4(data-aos="fade-down") En la edición de texto también se hace necesario revisar el uso de etiquetas o palabras clave. Estas ayudan a organizar contenidos y facilitar búsquedas, pero deben usarse con criterio. En una campaña de museo, las etiquetas pueden relacionarse con:
@@ -50,7 +50,7 @@
         p.mb-0.text-center No deben incluir términos engañosos que busquen visibilidad sin relación con el contenido.
     .row.justify-content-center.mb-4
       .col.col-12
-        p.mb-0.text-center Para profundizar en la creación de piezas orientadas a redes sociales, se sugiere consultar el video denominado: Creación de contenido digital para redes sociales:
+        p.mb-0.text-center Para profundizar en la creación de piezas orientadas a redes sociales, se sugiere consultar el siguiente video, que presenta el curso Creación de contenido digital para redes sociales, en el cual se desarrollará de manera integral esta temática:
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
         figure
@@ -80,7 +80,7 @@
           p.mb-0(data-aos="fade-down") La edición básica de imágenes incluye revisar el encuadre, la iluminación, la nitidez, la proporción, el peso del archivo y la adaptación al formato de la plataforma donde será publicada. Si se agrega texto sobre la imagen, este debe ser legible en dispositivos móviles y conservar un contraste adecuado con el fondo. También se debe cuidar que el diseño no oculte detalles importantes del bien patrimonial, especialmente cuando la imagen permite observar características relevantes de una pieza, un documento, una técnica, un espacio museal o una manifestación cultural.
       .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t4/img04.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t4/img04.jpg', alt='')
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p(data-aos="fade-down") En las infografías es posible sintetizar información cultural y presentarla de manera visual, ordenada y comprensible. Estas pueden mostrar líneas de tiempo, partes de una pieza, etapas de un proceso, características de una manifestación, recomendaciones de visita, rutas de circulación, relaciones entre conceptos o datos clave sobre una colección. Para que funcionen adecuadamente, deben organizar la información de forma jerárquica, mediante título, idea principal, datos de apoyo y cierre. El exceso de texto, la acumulación de íconos o el uso de demasiados colores puede dificultar la lectura y afectar la comprensión del mensaje.
@@ -119,7 +119,7 @@
           .row.justify-content-center.align-items-center
             .col.col-lg-1.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/t4/img08.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t4/img08.svg', alt='')
             .col.col-lg-11.col-12.order-lg-2.order-1.mb-lg-0
               p.mb-0(data-aos="fade-down") La edición de imágenes e infografías sugiere revisar su claridad, pertinencia, accesibilidad y coherencia con el objetivo de la campaña en conjunto con la apariencia de las piezas. 
     separador

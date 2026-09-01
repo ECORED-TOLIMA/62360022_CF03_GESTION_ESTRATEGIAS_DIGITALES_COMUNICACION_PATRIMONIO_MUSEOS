@@ -26,7 +26,7 @@
               p.mb-0(data-aos="fade-down") En campañas digitales patrimoniales, los protocolos son especialmente importantes porque los contenidos pueden involucrar memorias, comunidades, derechos culturales, imágenes de personas, obras protegidas o información sensible sobre bienes patrimoniales. La falta de orientación puede llevar a publicaciones imprecisas, uso indebido de recursos o respuestas inadecuadas ante el público.
             .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t2/img02.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t2/img02.svg', alt='')
         p.mb-0(data-aos="fade-down") El protocolo también favorece la coherencia y continuidad. Si una campaña es gestionada por varias personas, todas deben reconocer las mismas pautas de lenguaje, estilo y revisión. Esto evita cambios bruscos en el tono y mantiene una presencia institucional más sólida.
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -40,35 +40,35 @@
             p.mb-0(data-aos="fade-down") Este componente reúne la misión, los valores, el tono de comunicación y los criterios visuales que orientan la presencia del museo en los medios digitales. Además, debe reflejar su función cultural y educativa en todas las publicaciones.
           .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
             figure
-              img(src='@/assets/curso/temas/t2/img03.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t2/img03.svg', alt='')
         .row(titulo="2")
           .col-lg-9.mb-4.mb-lg-0.order-lg-2.order-2
             h4(data-aos="fade-down") El segundo componente corresponde al lenguaje.
             p.mb-0(data-aos="fade-down") Allí se definen criterios como claridad, respeto, inclusión, precisión y adaptación al público. El lenguaje de una campaña cultural debe evitar expresiones demasiado técnicas cuando el público no está familiarizado con ellas. También debe evitar frases ambiguas, exageradas o descontextualizadas.
           .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
             figure
-              img(src='@/assets/curso/temas/t2/img04.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t2/img04.svg', alt='')
         .row(titulo="3")
           .col-lg-9.mb-4.mb-lg-0.order-lg-2.order-2
             h4(data-aos="fade-down") El tercer componente es la revisión de contenidos.
             p.mb-0(data-aos="fade-down") Antes de publicar, se debe verificar la exactitud de los datos, la pertinencia de las imágenes, la calidad de los textos, el cumplimiento de derechos de autor, la existencia de autorizaciones cuando aparezcan personas y la accesibilidad básica de la pieza.
           .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
             figure
-              img(src='@/assets/curso/temas/t2/img05.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t2/img05.svg', alt='')
         .row(titulo="4")
           .col-lg-9.mb-4.mb-lg-0.order-lg-2.order-2
             h4(data-aos="fade-down") El cuarto componente corresponde a los tiempos de publicación y respuesta.
             p.mb-0(data-aos="fade-down") La campaña debe definir cuándo se publica cada contenido y en qué plazo se responderán consultas o comentarios. Aunque los tiempos pueden variar, la institución debe evitar dejar preguntas sin atención cuando estas se relacionan con actividades, acceso a recursos o información cultural.
           .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
             figure
-              img(src='@/assets/curso/temas/t2/img06.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t2/img06.svg', alt='')
         .row(titulo="5")
           .col-lg-9.mb-4.mb-lg-0.order-lg-2.order-2
             h4(data-aos="fade-down") El quinto componente es la gestión de interacciones.
             p.mb-0(data-aos="fade-down") En este apartado se establecen criterios para responder comentarios, agradecer aportes, corregir información, moderar mensajes ofensivos o remitir consultas a otras áreas del museo. Esta gestión contribuye a mantener espacios digitales respetuosos y educativos.
           .col-lg-auto.col-6.order-lg-1.order-1.mb-lg-0.mb-3
             figure
-              img(src='@/assets/curso/temas/t2/img07.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t2/img07.svg', alt='')
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .cajon.cajon.C01.color-primario.p-4.mb-0
@@ -114,7 +114,7 @@
           p.mb-0(data-aos="fade-down") El tono comunicativo debe corresponder con la identidad del museo y la intención de la campaña. Puede ser cercano, educativo, reflexivo o invitacional, pero siempre debe mantener respeto por el patrimonio y por las personas. La comunicación cultural no debe usar expresiones que ridiculicen, estereotipen o reduzcan las prácticas culturales de una comunidad.
       .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t2/img08.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t2/img08.jpg', alt='')
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
         p.mb-0(data-aos="fade-down") El tono también influye en la participación del público. Una pregunta bien formulada puede invitar a compartir recuerdos o interpretaciones; una instrucción confusa puede limitar la interacción. Por eso, cada publicación debe revisar si el texto acompaña de forma adecuada la imagen, el video o el audio.
@@ -131,12 +131,12 @@
           .row.mb-4
             .col-lg-2.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/t2/img10.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t2/img10.svg', alt='')
           p.mb-5(data-aos="fade-down") Shea (1994) fue una de las autoras que sistematizó reglas básicas de comportamiento en internet bajo el concepto de netiqueta. Aunque los entornos digitales han cambiado desde entonces, el principio central de que la comunicación en línea requiere respeto por las otras personas y cuidado frente a los efectos de lo que se publica sigue vigente.
           p.mb-0(data-aos="fade-down") En una campaña digital patrimonial, la netiqueta tiene una dimensión cultural. Los públicos pueden interpretar el patrimonio desde experiencias diversas. La institución debe promover conversaciones donde esas miradas puedan expresarse sin afectar la dignidad de otras personas ni distorsionar información sensible.
       .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t2/img09.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t2/img09.jpg', alt='')
 </template>
 <script>
 export default {

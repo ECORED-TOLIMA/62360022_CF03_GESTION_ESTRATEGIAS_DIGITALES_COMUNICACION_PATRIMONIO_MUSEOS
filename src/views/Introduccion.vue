@@ -22,37 +22,37 @@
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/intro/img01.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/intro/img01.svg', alt='')(style="width: 100%")
             h4.text-center Comunicativo 
             p Es necesario definir qué se quiere decir, a quién se dirige el mensaje y en qué canales se publicará.
           .col-xl.col-lg-6.tarjeta.tarjeta--C02.p-5
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/intro/img02.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/intro/img02.svg', alt='')(style="width: 100%")
             h4.text-center Pedagógico
             p Los contenidos deben facilitar la comprensión y el aprendizaje del patrimonio cultural por parte de los diferentes públicos.
           .col-xl.col-lg-6.tarjeta.tarjeta--C03.p-5
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/intro/img03.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/intro/img03.svg', alt='')(style="width: 100%")
             h4.text-center Técnico
             p Las piezas deben adaptarse a los formatos, tiempos y restricciones de cada plataforma.
           .col-xl.col-lg-6.tarjeta.tarjeta--C04.p-5
             .row.justify-content-center.mb-3
               .col-lg-5.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/temas/intro/img04.svg', alt='Imagen decorativa')(style="width: 100%")
+                  img(src='@/assets/curso/temas/intro/img04.svg', alt='')(style="width: 100%")
             h4.text-center Ético y legal
             p Se deben respetar los derechos de autor, la protección de datos personales, el derecho de imagen, la diversidad cultural y las normas de convivencia digital.
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/intro/img05.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/intro/img05.jpg', alt='')
       .col.col-lg-5.col-12.order-lg-1.order-2
         p.mb-4(data-aos="fade-down") Este componente formativo desarrolla los fundamentos necesarios para la planificación, producción, edición, publicación y difusión de una campaña digital sobre patrimonio cultural en el ámbito museal. Se abordan los protocolos de comunicación digital, las técnicas de edición de contenido, los tipos de publicaciones, la configuración y uso de plataformas, los calendarios de publicación, las restricciones de los canales y los criterios éticos que orientan la divulgación responsable del patrimonio.
-        p.mb-0(data-aos="fade-down") Por lo anterior y para comprender la importancia del contenido y contextualizarse con la temática tratar, se recomienda acceder al siguiente video:
+        p.mb-0(data-aos="fade-down") Por lo anterior y para comprender la importancia del contenido y contextualizarse con la temática, se recomienda acceder al siguiente video:
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
         figure

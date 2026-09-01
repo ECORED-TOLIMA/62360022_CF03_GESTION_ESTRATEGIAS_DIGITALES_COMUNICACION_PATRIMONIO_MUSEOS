@@ -7,7 +7,7 @@
         span 3
       h1 Ética y normativa en campañas digitales para museos
     figure.mb-4
-      img(src='@/assets/curso/temas/t3/img01.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/t3/img01.png', alt='')
     p.mb-4(data-aos="fade-down") La planificación y ejecución de campañas digitales para museos implica asumir responsabilidades relacionadas con el uso adecuado de la información, el respeto por las personas y la protección del patrimonio cultural. En este contexto, la ética y la normativa orientan la producción y difusión de contenidos, promoviendo prácticas de comunicación transparentes, respetuosas y acordes con las disposiciones legales vigentes.
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
@@ -26,7 +26,7 @@
               p.mb-0(data-aos="fade-down") También se debe tener cuidado con la publicación de información sensible. Algunas expresiones culturales pueden requerir reserva sobre su ubicación, estado de conservación o condiciones de seguridad o pueden tener restricciones comunitarias sobre lo que puede difundirse públicamente. En estos casos, la campaña debe priorizar el respeto por las comunidades y por la protección del bien.
             .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t3/img02.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t3/img02.svg', alt='')
         p.mb-0(data-aos="fade-down") La ética debe estar presente desde la selección del tema hasta la publicación. Esto implica preguntarse: <b>¿quiénes están representados?, ¿qué fuente respalda la información?, ¿la imagen cuenta con autorización?, ¿el contenido puede afectar a alguna comunidad?, ¿el mensaje ayuda a comprender el patrimonio?</b>
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -97,7 +97,7 @@
           .row.justify-content-center.align-items-center
             .col.col-lg-1.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/t3/img08.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t3/img08.svg', alt='')
             .col.col-lg-11.col-12.order-lg-2.order-1.mb-lg-0
               p.mb-0(data-aos="fade-down") Lo importante es que el contenido no exponga información innecesaria ni vulnere la privacidad de las personas.
     separador
@@ -112,7 +112,7 @@
               p.mb-4(data-aos="fade-down") En este campo, una referencia internacional importante es el World Wide Web Consortium, conocido por la sigla W3C. Esta organización desarrolla estándares y orientaciones para la <em>web</em>, entre ellos las Web Content Accessibility Guidelines, conocidas como WCAG o Pautas de Accesibilidad para el Contenido <em>web</em>. Estas pautas explican cómo hacer que los contenidos digitales sean más accesibles para personas con distintas discapacidades y necesidades de acceso. De acuerdo con el W3C, las WCAG 2.2 buscan que el contenido <em>web</em> sea más accesible para personas con baja visión, pérdida auditiva, movilidad reducida, dificultades cognitivas, fotosensibilidad y otras condiciones, y también pueden mejorar la usabilidad para los usuarios en general (World Wide Web Consortium, 2024).
             .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t3/img07.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t3/img07.svg', alt='')
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p(data-aos="fade-down") Las WCAG 2.2 promueven que los contenidos sean perceptibles, comprensibles, operables y compatibles con diversas tecnologías de acceso.
@@ -160,7 +160,7 @@
       .col.col-lg-10.col-12
         p.mb-4(data-aos="fade-down") La accesibilidad también se relaciona con el lenguaje. Un contenido puede estar disponible en una plataforma digital, pero seguir siendo difícil de comprender si utiliza frases demasiado extensas, tecnicismos sin explicación, baja legibilidad o diseños visualmente recargados. Por eso, en la edición de una campaña se debe revisar tanto la forma visual como la claridad del mensaje. En lo referido a los museos, esto es especialmente importante porque muchos contenidos patrimoniales provienen de campos especializados como la historia, el arte, la conservación, la arqueología o la memoria cultural, y requieren ser presentados de manera comprensible para públicos no expertos.
         figure.mb-4
-          img(src='@/assets/curso/temas/t3/img14.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t3/img14.png', alt='')
         .row.justify-content-center.mb-4
           .col.col-12
             .cajon.cajon.C01.color-primario.p-4.mb-0
@@ -185,7 +185,7 @@
                       .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
             .col-lg-12.col-12.order-lg-1.order-1
               figure
-                img(src='@/assets/curso/temas/t3/img15.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t3/img15.svg', alt='')
 </template>
 <script>
 export default {

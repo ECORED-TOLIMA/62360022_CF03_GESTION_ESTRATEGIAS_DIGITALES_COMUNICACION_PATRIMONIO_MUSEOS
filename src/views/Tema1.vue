@@ -9,7 +9,7 @@
     .row.justify-content-center.mb-4
       .col.col-12
         figure
-          img(src='@/assets/curso/temas/t1/img01.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img01.png', alt='')
     p.mb-4(data-aos="fade-down") La divulgación del patrimonio cultural en entornos digitales requiere procesos de comunicación planificados que permitan acercar los contenidos museales a diferentes públicos mediante mensajes claros, pertinentes y adaptados a diversos formatos y plataformas. En este contexto, las campañas digitales constituyen una estrategia para organizar acciones de comunicación orientadas a informar, educar y promover la participación alrededor del patrimonio.
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
@@ -51,7 +51,7 @@
           p.mb-0(data-aos="fade-down") Desde la perspectiva del <em>marketing</em> cultural, la comunicación de museos debe considerar los públicos, la misión institucional y las experiencias que se ofrecen. Kotler, Kotler & Kotler (2008), señalan que los museos necesitan diseñar estrategias que conecten su misión con la construcción de audiencias y la generación de valor para los públicos. En una campaña digital, esta relación se expresa en la capacidad de comunicar el patrimonio sin perder el sentido cultural, educativo y social de la institución.
       .col-lg-3.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/t1/img06.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img06.jpg', alt='')
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2 Objetivos de una campaña digital cultural
@@ -91,7 +91,7 @@
           .row.justify-content-center.align-items-center
             .col.col-lg-auto.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/temas/t1/img11.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img11.svg', alt='')
             .col.col-lg-10.col-12.order-lg-2.order-1.mb-lg-0
               p.mb-0(data-aos="fade-down") En el contexto museal, los objetivos pueden ser informativos, educativos, participativos, promocionales o de sensibilización cultural.
     .row.justify-content-center.mb-4
@@ -132,14 +132,14 @@
       .col-lg-6.col-12.mb-4.d-flex
         .card-custom.w-100.d-flex.flex-column
           figure.px-0.mb-0
-            img(src='@/assets/curso/temas/t1/img12.jpg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/t1/img12.jpg', alt='')
           .bg-c1.flex-grow-1.d-flex.flex-column.justify-content-center.align-items-start
             h4 Patrimonio material
             p.mb-0 La campaña puede enfocarse en los detalles visuales de las piezas, su historia, los procesos de conservación, los materiales con los que fueron elaboradas o su relación con acontecimientos históricos, sociales o culturales.
       .col-lg-6.col-12.mb-4.d-flex
         .card-custom.w-100.d-flex.flex-column
           figure.px-0.mb-0
-            img(src='@/assets/curso/temas/t1/img13.jpg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/t1/img13.jpg', alt='')
           .bg-c1.flex-grow-1.d-flex.flex-column.justify-content-center.align-items-start
             h4 Patrimonio inmaterial
             p.mb-0 La campaña debe resaltar las prácticas, los saberes, las expresiones, las personas, las comunidades y las formas de transmisión cultural que mantienen vivas estas manifestaciones a lo largo del tiempo.
@@ -166,7 +166,7 @@
               p.mb-0(data-aos="fade-down") Debe cuidar la representación de memorias, relatos, prácticas, saberes y expresiones culturales propias, promoviendo el reconocimiento, la participación activa y el diálogo con los portadores del patrimonio para fortalecer la identidad, la apropiación social y la preservación de la memoria colectiva.
       .col-lg-4.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/t1/img14.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img14.png', alt='')
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-10.col-12
         p.mb-0(data-aos="fade-down") El mensaje central resume la idea principal de la campaña. Debe ser claro, coherente y recordable. No es un eslogan vacío; es la orientación conceptual que conecta todas las piezas. Por ejemplo, una campaña sobre textiles tradicionales puede tener como mensaje central: 
@@ -177,7 +177,7 @@
     .row.justify-content-center.mb-0
       .col.col-lg-2.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
-          img(src='@/assets/curso/temas/t1/img15.jpg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/t1/img15.jpg', alt='')
       .col.col-lg-8.col-12.order-lg-2.order-2
         p.mb-4(data-aos="fade-down") A partir de esa idea se pueden diseñar publicaciones sobre técnicas, usos, historias familiares, materiales, símbolos y procesos de transmisión.
         p.mb-0(data-aos="fade-down") La construcción del mensaje implica seleccionar información relevante y organizarla de manera comprensible. En la comunicación cultural, el reto consiste en traducir conocimientos especializados a lenguajes cercanos sin perder precisión. Esta tarea exige reconocer lo esencial del contenido y presentarlo con ejemplos, relatos, imágenes o preguntas que ayuden al público a comprender.
@@ -194,42 +194,42 @@
               p Esta necesidad puede surgir a partir de una nueva exposición, una colección poco conocida, una fecha conmemorativa, una actividad educativa o una problemática asociada al desconocimiento del patrimonio local. Este análisis inicial es importante en el proceso de comprensión del contexto, la definición del propósito de la campaña y la identificación de la situación comunicativa que se busca atender.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img16.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img16.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Después se formula el objetivo y se caracteriza el público.
               p Esta etapa evita que la campaña se diseñe para “todo el mundo”, una expresión que suele dificultar la precisión del mensaje. Aunque una publicación pueda llegar a muchas personas, la estrategia debe reconocer a quién se dirige principalmente.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img17.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img17.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Luego se define el mensaje central y los contenidos que lo desarrollarán.
               p Estos contenidos deben organizarse como una secuencia. Una campaña puede iniciar con una publicación de contexto, continuar con piezas explicativas, incluir recursos de participación y cerrar con una invitación a ampliar la información. Esta estructura ayuda a que el público siga una ruta de comprensión.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img18.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img18.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 La selección de plataformas se realiza según el objetivo y el público.
               p No todas las plataformas cumplen la misma función. Algunas favorecen la circulación rápida de imágenes y videos cortos; otras permiten conservar información extensa; otras facilitan el acceso a archivos, audios o recursos educativos. La campaña debe aprovechar esas diferencias sin duplicar mecánicamente el mismo contenido.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img19.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img19.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 El cronograma define fechas, horarios, responsables y estados de revisión.
               p Este instrumento ayuda a coordinar el trabajo y permite verificar que cada pieza esté lista antes de su publicación. La publicación requiere revisar ortografía, fuentes, derechos de autor, datos personales, accesibilidad básica y adecuación al formato.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img20.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img20.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Finalmente, la valoración permite identificar aprendizajes.
               p Se revisa si los contenidos fueron claros, si el público pudo comprender el mensaje, si las plataformas fueron adecuadas y si se cumplieron los criterios éticos. Esta información permite mejorar campañas futuras.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t1/img21.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t1/img21.jpg', alt='')
     .row.justify-content-center.mb-4
       .col.col-12
         p.mb-0.text-center Para ampliar la comprensión sobre el concepto de campaña, se sugiere consultar el siguiente video denominado: ¿Qué es una campaña publicitaria?

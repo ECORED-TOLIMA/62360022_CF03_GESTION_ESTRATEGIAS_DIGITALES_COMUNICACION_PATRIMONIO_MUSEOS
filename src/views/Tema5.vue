@@ -7,7 +7,7 @@
         span 5
       h1 Plataformas digitales: configuración, calendario y restricciones
     figure.mb-4
-      img(src='@/assets/curso/temas/t5/img01.png', alt='Imagen decorativa')
+      img(src='@/assets/curso/temas/t5/img01.png', alt='')
     p.mb-4(data-aos="fade-down") Las plataformas digitales constituyen el entorno donde se desarrollan las campañas de divulgación del patrimonio cultural, ya que permiten publicar contenidos, interactuar con los públicos y dar continuidad a las estrategias de comunicación. Su utilización requiere una planificación previa que facilite la organización de las acciones, la gestión de los recursos y la adaptación de los contenidos a las características de cada canal.
     .row.justify-content-center.mb-0
       .col.col-lg-10.col-12
@@ -27,42 +27,42 @@
               p La plataforma debe responder al propósito principal de la campaña. Si la intención es difundir información breve y generar participación inmediata, pueden utilizarse redes sociales. Si se requiere ampliar contenidos, compartir recursos educativos o proporcionar información permanente, puede ser más adecuado un sitio <em>web</em> institucional o un repositorio digital.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t5/img02.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img02.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Características del público
               p Las preferencias y hábitos de los públicos influyen en la selección de los canales. Por ejemplo, una campaña dirigida a estudiantes puede incorporar videos cortos, recursos visuales o publicaciones interactivas, mientras que una campaña orientada a docentes o investigadores puede incluir materiales descargables, artículos especializados o enlaces a colecciones digitales.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t5/img03.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img03.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Tipo de patrimonio que se comunica
               p La naturaleza del contenido también condiciona la elección de la plataforma. Las piezas patrimoniales que requieren apreciación visual pueden apoyarse en galerías digitales, imágenes de alta calidad o recorridos virtuales. Los testimonios, relatos de memoria o entrevistas pueden difundirse mediante formatos sonoros o audiovisuales.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t5/img04.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img04.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Formato de los contenidos
               p Cada plataforma favorece determinados formatos. Algunas facilitan la circulación de imágenes, carruseles o videos breves, mientras que otras permiten alojar documentos, audios, publicaciones extensas o recursos interactivos. La selección debe considerar cuál es el formato más adecuado para comunicar el mensaje.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t5/img05.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img05.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Nivel de interacción esperado
               p Si la campaña busca comentarios, respuestas, participación en actividades o construcción de conversaciones, se deben priorizar canales que faciliten estas dinámicas. Por el contrario, si el objetivo principal es ofrecer información de consulta, pueden utilizarse espacios con menor nivel de interacción y mayor capacidad de almacenamiento de contenidos.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t5/img06.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img06.jpg', alt='')
           .row.align-items-center
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
               h4 Recursos disponibles para la gestión
               p La administración de una plataforma requiere tiempo, seguimiento y actualización constante. Por esta razón, la campaña debe considerar la disponibilidad de recursos humanos y técnicos antes de ampliar su presencia en múltiples canales.
             .col-lg-6.order-1.order-lg-2.mb-4.mb-md-4
               figure
-                img(src='@/assets/curso/temas/t5/img07.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img07.jpg', alt='')
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p(data-aos="fade-down") Una misma campaña puede combinar varias plataformas de forma complementaria. Por ejemplo, una publicación en redes sociales puede despertar el interés sobre una colección, un video puede ampliar la explicación de las piezas y un sitio <em>web</em> institucional puede ofrecer información detallada para quienes deseen profundizar en el tema. Esta articulación permite aprovechar las fortalezas de cada canal sin necesidad de repetir exactamente los mismos contenidos.
@@ -102,7 +102,7 @@
               p.mb-0(data-aos="fade-down") También es necesario revisar los permisos de publicación. En un museo, no todas las personas deben tener acceso a publicar directamente. Es recomendable establecer responsables de creación, revisión, aprobación y publicación. Esta división ayuda a evitar errores y garantiza que los contenidos cumplan los criterios definidos.
             .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t5/img09.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img09.svg', alt='')
     separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.3 Calendario de publicaciones de campaña
@@ -112,7 +112,7 @@
         ImagenInfografica.color-acento-botones.desktop
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/t5/img10.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/t5/img10.svg', alt='')
           .tarjeta.color-secundario.p-3(x="8%" y="42%" numero="+")
             p.mb-0 Permiten establecer el momento en que se difundirá cada contenido, favoreciendo una distribución organizada y acorde con la programación de la campaña.
           .tarjeta.color-secundario.p-3(x="17%" y="42%" numero="+")
@@ -135,7 +135,7 @@
             p.mb-0 Facilita anticipar la respuesta del público y registrar posteriormente resultados como visualizaciones, reacciones, comentarios o aspectos de mejora para futuras publicaciones.
     .row.justify-content-center.col-12.mb-4
       figure.movil
-        img(src='@/assets/curso/temas/t5/img11.svg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/t5/img11.svg', alt='')
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         p.mb-0(data-aos="fade-down") El calendario permite distribuir los contenidos de forma ordenada. Una campaña puede iniciar con una publicación de expectativa, continuar con piezas informativas o educativas, incluir contenidos que inviten a la participación y cerrar con una publicación de síntesis o llamado final. Esta secuencia evita que las piezas se publiquen de manera aislada y facilita que el público comprenda el recorrido de la campaña.
@@ -234,7 +234,7 @@
               p.mb-0(data-aos="fade-down") También se deben revisar las restricciones legales y comunitarias. Algunas plataformas pueden retirar contenidos por uso no autorizado de música o imágenes. Otras pueden limitar publicaciones que infrinjan sus normas. En campañas culturales, esto refuerza la importancia de usar recursos propios o autorizados.
             .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t5/img14.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img14.svg', alt='')
         p.mb-4(data-aos="fade-down") Las normas de convivencia también deben considerarse. Si una campaña invita a comentar memorias o experiencias, se debe prever cómo se moderarán comentarios ofensivos, discriminatorios o desinformativos. La plataforma es un espacio de publicación, pero también de relación con los públicos.
         p.mb-0(data-aos="fade-down") Para finalizar, antes de publicar una campaña digital, es recomendable verificar los siguientes aspectos:
     .tarjeta.tarjeta--bg08.p-md-5.p-4.mb-0(data-aos="flip-down")
@@ -246,42 +246,42 @@
               p.mb-0 Revisar que las imágenes, videos, audios y textos cumplan con las especificaciones técnicas de cada plataforma, como dimensiones, resolución, duración, peso del archivo y extensión del texto. Adaptar los contenidos a estos requisitos favorece una correcta visualización y evita inconvenientes durante la publicación.
             .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t5/img15.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img15.jpg', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
               h4 Cumplimiento de derechos de autor
               p.mb-0 Verificar que todos los recursos utilizados, como fotografías, ilustraciones, música, videos, documentos o gráficos, cuenten con la autorización o la licencia correspondiente. Este control permite respetar la propiedad intelectual y prevenir el retiro de publicaciones o posibles reclamaciones por uso indebido de contenidos de terceros.
             .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t5/img16.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img16.jpg', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
               h4 Protección de datos personales
               p.mb-0 Confirmar que la publicación no divulgue información personal, imágenes, voces o testimonios de personas sin la autorización requerida. Este aspecto adquiere mayor importancia cuando participan niños, niñas, adolescentes o comunidades que requieren medidas especiales de protección de su identidad y privacidad.
             .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t5/img17.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img17.jpg', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
               h4 Cumplimiento de las normas de la plataforma
               p.mb-0 Comprobar que el contenido respete las políticas de uso y las normas comunitarias establecidas por cada plataforma digital. Esto incluye evitar contenidos que puedan ser considerados engañosos, ofensivos, discriminatorios o que incumplan las condiciones relacionadas con derechos de autor, seguridad o convivencia digital.
             .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t5/img18.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img18.jpg', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
               h4 Moderación de interacciones
               p.mb-0 Establecer criterios para gestionar la participación del público, definiendo cómo responder preguntas, atender comentarios, agradecer aportes y actuar frente a mensajes ofensivos, discriminatorios o que difundan información falsa. Una moderación adecuada favorece espacios de diálogo respetuosos y fortalece la confianza entre el museo y sus audiencias.
             .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t5/img19.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img19.jpg', alt='')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
               h4 Revisión final del contenido
               p.mb-0 Realizar una verificación integral antes de publicar, revisando la claridad del mensaje, la ortografía, la coherencia entre el texto y los recursos visuales, el funcionamiento de enlaces, la calidad de los archivos y el cumplimiento de los criterios técnicos, éticos y comunicativos definidos para la campaña. Esta revisión final contribuye a garantizar una publicación organizada, consistente y alineada con los objetivos de divulgación del patrimonio cultural.
             .col-lg-6.order-lg-1.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/t5/img20.jpg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/t5/img20.jpg', alt='')
 </template>
 <script>
 export default {
